@@ -22,6 +22,7 @@
 		4EC3DF6B1FDBA34A00EF73B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EC3DF6E1FDBA34A00EF73B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EC3DF701FDBA34A00EF73B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EC3DF761FDBB45D00EF73B3 /* if_bulldozer_45455.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_bulldozer_45455.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				4EC3DF661FDBA34A00EF73B3 /* ViewController.swift */,
 				4EC3DF681FDBA34A00EF73B3 /* Main.storyboard */,
 				4EC3DF6B1FDBA34A00EF73B3 /* Assets.xcassets */,
+				4EC3DF761FDBB45D00EF73B3 /* if_bulldozer_45455.png */,
 				4EC3DF6D1FDBA34A00EF73B3 /* LaunchScreen.storyboard */,
 				4EC3DF701FDBA34A00EF73B3 /* Info.plist */,
 			);
